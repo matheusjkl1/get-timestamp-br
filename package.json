@@ -1,0 +1,23 @@
+{
+  "name": "get-timestamp-br",
+  "version": "1.0.0",
+  "description": "Retorna o horario de brasilia no formato timestamp (0000-00-00 00:00:00.000)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matheusjkl1/get-timestamp-br.git"
+  },
+  "keywords": [
+    "timestamp",
+    "br"
+  ],
+  "author": "Matheus Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusjkl1/get-timestamp-br/issues"
+  },
+  "homepage": "https://github.com/matheusjkl1/get-timestamp-br#readme"
+}
